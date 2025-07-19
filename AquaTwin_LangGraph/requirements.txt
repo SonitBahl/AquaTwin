@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-google-genai
+langchain-text-splitters
+langgraph
+langgraph-checkpoint
+langgraph-sdk
+langsmith
+matplotlib-inline
+numpy
+pandas
+python-dotenv
+streamlit
+streamlit-chat
