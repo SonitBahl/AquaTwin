@@ -1,5 +1,8 @@
 # AquaTwin
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Last Commit](https://img.shields.io/github/last-commit/sonitbahl/AquaTwin)
+![Repo Size](https://img.shields.io/github/repo-size/sonitbahl/AquaTwin)
+&#x20; &#x20;
 A 3D Digital Twin for Smart Water Management
 
 AquaTwin is an intelligent digital twin system designed to simulate, monitor, and optimize smart water infrastructure. Leveraging Unity for real-time 3D visualization, LangChain-powered LLM agents for decision support, and a full-stack dashboard for system insights, AquaTwin provides a powerful tool for water resource management.
@@ -76,6 +79,11 @@ AquaTwin/
 - **Python**, **LangChain**
 - **React.js**, **MongoDB**
 - **Power BI**
+
+---
+## 📝 License
+
+This project is licensed under the [MIT License](./LICENSE).
 
 ---
 
