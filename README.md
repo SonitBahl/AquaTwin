@@ -4,7 +4,7 @@ A 3D Digital Twin for Smart Water Management
 
 AquaTwin is an intelligent digital twin system designed to simulate, monitor, and optimize smart water infrastructure. Leveraging Unity for real-time 3D visualization, LangChain-powered LLM agents for decision support, and a full-stack dashboard for system insights, AquaTwin provides a powerful tool for water resource management.
 
-> 📦 **[Original Repository (Archived)](https://github.com/your-archived-repo-url)** — this repo has been restructured and updated.
+> 📦 **[Original Repository (Archived)](https://github.com/SonitBahl/Yantra-Central-Web)** — this repo has been restructured and updated.
 ---
 
 ## 🚀 Features
@@ -72,9 +72,9 @@ AquaTwin/
 
 ## 🛠️ Tech Stack
 
-- **Unity** (C#)
-- **LangChain** (Python)
-- **React.js** + **MongoDB**
+- **Unity**, **C#**
+- **Python**, **LangChain**
+- **React.js**, **MongoDB**
 - **Power BI**
 
 ---
